@@ -48,8 +48,8 @@ Using **Pandas, Matplotlib, and Seaborn**, the project performs in-depth analysi
 ## 🔧 Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Anas-Zaki/SAL_BW_Project.git
-   cd SAL_BW_Project
+   https://github.com/MaheshMahat0/book-data-analysis.git
+   cd book-data-analysis
    ```
 2. **Perform EDA and Visualization in Jupyter Notebook**
 
