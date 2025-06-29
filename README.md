@@ -5,7 +5,7 @@ SAL_BW_Project is a comprehensive data analysis project focused on web scraping 
 
 ## 📂 Project Structure
 ```
-SAL_BW_Project/
+book-data-analysis/
 │── 📄 README.md               # Project documentation
 │── 📂 data/                   # Contains raw and processed datasets
 │   │── 📄 Books_Details.csv    # Scraped book data
